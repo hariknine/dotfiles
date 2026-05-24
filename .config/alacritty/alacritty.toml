@@ -14,6 +14,10 @@ style = "Bold"
 family = "FiraCode Nerd Font"
 style = "Italic"
 
+[window.padding]
+x = 15
+y = 15
+
 # Colors (Ayu Dark)
 
 # Default colors
