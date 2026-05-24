@@ -1,3 +1,5 @@
+eval "$(starship init zsh)"
+
 # History
 setopt INC_APPEND_HISTORY
 setopt HIST_IGNORE_DUPS
